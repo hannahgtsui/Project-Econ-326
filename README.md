@@ -67,16 +67,9 @@ Summary statistics report the number of observations, mean, sample standard devi
 
 The main model is:
 
-\[
-\ln(Wage_i)
-=
-\beta_0
-+\beta_1 AI_i
-+\beta_2 Skills_i
-+\beta_3\ln(Employment_i)
-+\text{Occupation-group controls}
-+\varepsilon_i.
-\]
+$$
+\ln(Wage_i) = \beta_0 + \beta_1 AI_i + \beta_2 Skills_i + \beta_3 \ln(Employment_i) + \text{Occupation-group controls} + \varepsilon_i
+$$
 
 Here, \(i\) represents an occupation. The coefficients on AI exposure and human skills describe their wage associations while holding the included variables constant.
 
