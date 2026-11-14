@@ -73,8 +73,7 @@ $$
 
 Here, \(i\) represents an occupation. The coefficients on AI exposure and human skills describe their wage associations while holding the included variables constant.
 
-We plan to estimate ordinary least squares regressions with HC3 robust standard errors and report two-sided tests and 95% confidence intervals. For a standardized variable, a one-standard-deviation increase corresponds approximately to a \(100\beta\)% wage difference; the exact transformation is \(100(e^\beta-1)\)%.
-
+We plan to estimate ordinary least squares regressions with HC3 robust standard errors and report two-sided tests and 95% confidence intervals. For a standardized variable, a one-standard-deviation increase is associated with an approximate wage difference of $100\beta$ percent. The exact percentage difference is $100(e^\beta-1)$.
 
 ## Model evaluation and further analysis
 
